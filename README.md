@@ -7,7 +7,7 @@ We use python flask to provide RESTful API to the front-end.
 2. front-end<br/>
 A website built with Vue.js.
 3. predict_associated_tumors<br/>
-It contain the python code to predict_associated_tumors
+It contain the python code to predict_associated_tumors by calculating the text similarity.
 4. build_ontology.py<br/>
 Put data we gathered into Owl.
 5. extract_brain_areas_and_symptoms.py<br/>
