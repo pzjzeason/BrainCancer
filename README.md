@@ -4,15 +4,17 @@ This is a project of course Information Systems Design and Development in School
 ## Quick review of this project
 1. back-end<br/>
 We use python flask to provide RESTful API to the front-end.
-2. front-end<br/>
+2. data<br/>
+Files as input or result of Python code.
+3. front-end<br/>
 A website built with Vue.js.
-3. predict_associated_tumors<br/>
-It contain the python code to predict associated tumors by calculating the text similarity.
-4. build_ontology.py<br/>
+4. predict_associated_tumors<br/>
+It contains the python code to predict associated tumors by calculating the text similarity.
+5. build_ontology.py<br/>
 Put data we gathered into Owl.
-5. extract_brain_areas_and_symptoms.py<br/>
+6. extract_brain_areas_and_symptoms.py<br/>
 It does what the file name says. 
-6. reasoning_improve.py<br/>
+7. reasoning_improve.py<br/>
 In protege the reasoning result is a mass, thus we reason the associated_tumors by ourselves.
 
 ## Links
