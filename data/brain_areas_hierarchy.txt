@@ -1,0 +1,81 @@
+Right Cerebral Hemisphere
+Left Cerebral Hemisphere
+   Frontal
+	Orbitofrontal Cortex
+	Orbitofrontal
+	Premotor Cortex
+	Middle Frontal Gyrus
+	Inferior Frontal Gyrus
+	Prefrontal Cortex
+	Prefrontal
+	Motor Cortex
+	Broca's Area
+   Occipital
+	Primary Visual Cortex
+	Primary Visual
+   Parietal
+	Inferior Parietal Lobule
+	Inferior Parietal
+	Superior Parietal Lobule
+	Superior Parietal
+	Somatosensory Cortex
+	Somatosensory
+   Temporal
+	Primary Auditory
+	Wernicke's Area
+   Cingulate Cortex
+
+   Brain Stem£¨BrainStem£©
+	Midbrain
+	Pons
+	Medulla Oblongata
+   Limbic System
+	Entorhinal Cortex
+	Entorhinal
+	Amygdala
+	Hippocampus
+	    Subiculum
+            Dentate Gyrus
+            Dentate
+   Hypothalamus
+
+   Thalamus
+
+   Ventricles
+
+   Pituitary Gland
+
+   Pituitary
+
+   Basal Ganglia
+	Caudate Nucleus
+	Globus Pallidus
+	Nucleus Accumbens
+	Putamen
+	Substantia Nigra
+	Subthalamic Nucleus
+   Cerebellum
+
+   Cerebellar
+
+   Corpus Callosum
+
+   Olfactory Bulb
+
+   Cranial Nerves
+        Cranial Nerve I Olfactory
+	Cranial Nerve II Optic
+	Cranial Nerve III Oculomotor
+	Cranial Nerve IV Trochlear
+	Cranial Nerve V Trigeminal
+	Cranial Nerve VI Abducens
+	Cranial Nerve VII Facial
+	Cranial Nerve VIII Vestibulocochlear
+	Cranial Nerve IX Glossopharyngeal
+	Cranial Nerve X Vagus
+	Cranial Nerve XI Accessory
+	Cranial Nerve XII Hypoglossal
+
+
+
+
