@@ -12,7 +12,7 @@ It contain the python code to predict_associated_tumors
 Put data we gathered into Owl.
 5. extract_brain_areas_and_symptoms.py<br/>
 It does what the file name says. 
-6.reasoning_improve.py<br/>
+6. reasoning_improve.py<br/>
 In protege the reasoning result is a mass, thus we reason the associated_tumors by ourselves.
 
 ## Links
