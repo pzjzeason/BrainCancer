@@ -1,5 +1,6 @@
 # BrainCancer
 This is a project of course Information Systems Design and Development in School of Information Management at WHU.
+In this project, we build a brain-cancer knowledge base and a user-oriented website based on it.
 
 ## Quick review of this project
 1. back-end<br/>
