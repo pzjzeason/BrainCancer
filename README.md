@@ -19,7 +19,7 @@ It does what the file name says.
 In protege the reasoning result is a mass, thus we reason the associated_tumors by ourselves.
 
 ## Links
-[You can visit our website](http://218.197.150.149:8080/braincancer/)
+[You can visit our website](http://218.197.150.149/braincancer/)
 
 ## Notice
 This is a multi-person collaboration project. After the project is integrated, it is inevitable that there will be some mistakes. If you have any problems, put forward in the Issue zone.
